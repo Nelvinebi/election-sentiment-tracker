@@ -402,9 +402,9 @@ See the [LICENSE](LICENSE) file for full details.
 - **X Developer Platform** — for providing API access to real-time social data
 - **HuggingFace** — for the open-source Transformers library and pre-trained RoBERTa sentiment model
 - **Cardiff NLP** — for the `twitter-roberta-base-sentiment` model trained on 2 billion tweets
-- **Tweepy community** — for the Python wrapper simplifying X API v2 integration
-- **Matplotlib** — for the flexible visualisation framework powering the dashboard
-- **Nigerian political discourse on X** — for the raw data that makes this analysis possible
+- **Tweepy community:** for the Python wrapper simplifying X API v2 integration
+- **Matplotlib:** for the flexible visualisation framework powering the dashboard
+- **Nigerian political discourse on X:** for the raw data that makes this analysis possible
 
 ---
 
