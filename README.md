@@ -11,7 +11,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-> An **automated X (Twitter) data pipeline** that collects, analyses, and visualises daily sentiment for Nigeria's 2026 presidential candidates — **Tinubu (APC)**, **Peter Obi (NDC)**, and **Atiku (ADC)** — using real-time social media mentions, NLP-powered sentiment analysis, and publication-ready charts auto-posted to X.
+> An **automated X (Twitter) data pipeline** that collects, analyses, and visualises daily sentiment for Nigeria's 2026 presidential candidates — **Tinubu (APC)**, **Peter Obi (NDC)**, and **Atiku (ADC)** using real-time social media mentions, NLP-powered sentiment analysis, and publication-ready charts auto-posted to X.
 
 </div>
 
@@ -29,10 +29,10 @@ Nigeria's 2026 presidential election is generating intense discourse across soci
 
 Without automated sentiment tracking, analysts and campaigns face:
 
-- **Missed momentum shifts** — failing to detect when a candidate is gaining or losing support
-- **Noisy volume metrics** — counting mentions without knowing if they are positive or negative
-- **Delayed response times** — waiting days or weeks for poll results while sentiment moves daily
-- **Unstructured data overload** — drowning in raw tweets without statistical summarisation
+- **Missed momentum shifts** failing to detect when a candidate is gaining or losing support
+- **Noisy volume metrics** counting mentions without knowing if they are positive or negative
+- **Delayed response times** waiting days or weeks for poll results while sentiment moves daily
+- **Unstructured data overload** drowning in raw tweets without statistical summarisation
 
 There is a critical need for a **reproducible, automated, open-source system** that transforms raw social noise into structured electoral intelligence — collecting candidate mentions from X in real time, analysing sentiment using Natural Language Processing, computing daily, weekly, and overall statistical trends, and auto-publishing visual summaries to X.
 
