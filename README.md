@@ -25,7 +25,7 @@
 
 ## 📌 Problem
 
-Nigeria's 2026 presidential election is generating intense discourse across social media, with millions of posts daily reflecting shifting public opinion, campaign momentum, and voter sentiment. Traditional polling is expensive, slow, and often fails to capture real-time grassroots sentiment — particularly among Nigeria's digitally active youth demographic.
+Nigeria's 2026 presidential election is generating intense discourse across social media, with millions of posts daily reflecting shifting public opinion, campaign momentum, and voter sentiment. Traditional polling is expensive, slow, and often fails to capture real-time grassroots sentiment particularly among Nigeria's digitally active youth demographic.
 
 Without automated sentiment tracking, analysts and campaigns face:
 
