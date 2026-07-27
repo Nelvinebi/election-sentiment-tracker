@@ -1,4 +1,4 @@
-# 🗳️ Presidential Election Sentiment Tracker — Nigeria 2026
+# 🗳️ Presidential Election Sentiment Tracker: Nigeria 2026
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-> An **automated X (Twitter) data pipeline** that collects, analyses, and visualises daily sentiment for Nigeria's 2026 presidential candidates — **Tinubu (APC)**, **Peter Obi (NDC)**, and **Atiku (ADC)** using real-time social media mentions, NLP-powered sentiment analysis, and publication-ready charts auto-posted to X.
+> An **automated X (Twitter) data pipeline** that collects, analyses, and visualises daily sentiment for Nigeria's 2026 presidential candidates **Tinubu (APC)**, **Peter Obi (NDC)**, and **Atiku (ADC)** using real-time social media mentions, NLP-powered sentiment analysis, and publication-ready charts auto-posted to X.
 
 </div>
 
