@@ -104,8 +104,8 @@ All data is sourced from the **real X (Twitter) API** no synthetic data is used 
 - **Database:** SQLite3 — lightweight local storage for daily metrics
 - **Visualisation:** Matplotlib — 4-panel dashboard (line charts, bar charts, horizontal summaries)
 - **Automation:** Python `schedule` / cron / GitHub Actions — daily execution at 8:00 AM UTC
-- **Cloud Deployment:** Google Cloud Functions + Cloud Scheduler — serverless production hosting
-- **Environment Management:** python-dotenv — secure credential handling
+- **Cloud Deployment:** Google Cloud Functions + Cloud Scheduler serverless production hosting
+- **Environment Management:** python-dotenv secure credential handling
 
 ---
 
