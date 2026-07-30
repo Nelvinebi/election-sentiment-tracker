@@ -34,7 +34,7 @@ Without automated sentiment tracking, analysts and campaigns face:
 - **Delayed response times** waiting days or weeks for poll results while sentiment moves daily
 - **Unstructured data overload** drowning in raw tweets without statistical summarisation
 
-There is a critical need for a **reproducible, automated, open-source system** that transforms raw social noise into structured electoral intelligence — collecting candidate mentions from X in real time, analysing sentiment using Natural Language Processing, computing daily, weekly, and overall statistical trends, and auto-publishing visual summaries to X.
+There is a critical need for a **reproducible, automated, open-source system** that transforms raw social noise into structured electoral intelligence collecting candidate mentions from X in real time, analysing sentiment using Natural Language Processing, computing daily, weekly, and overall statistical trends, and auto-publishing visual summaries to X.
 
 ---
 
@@ -53,7 +53,7 @@ There is a critical need for a **reproducible, automated, open-source system** t
 
 ## 🗂️ Data Sources
 
-All data is sourced from the **real X (Twitter) API** — no synthetic data is used in production.
+All data is sourced from the **real X (Twitter) API** no synthetic data is used in production.
 
 ### API Sources
 
