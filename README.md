@@ -196,10 +196,10 @@ All data is sourced from the **real X (Twitter) API** no synthetic data is used 
 
 ### Key Insights
 
-- 🔍 **Obi leads momentum:** 7-day trend arrow (↑) with highest sentiment (61%) and growing mention volume — indicates positive campaign traction
+- 🔍 **Obi leads momentum:** 7-day trend arrow (↑) with highest sentiment (61%) and growing mention volume indicates positive campaign traction
 - 🔍 **Tinubu declining:** Downward 7-day trend (↓) despite highest historical volume; sentiment stuck at 45% suggests voter fatigue or criticism
 - 🔍 **Atiku stable but low:** Lowest overall mentions (989/day) and sentiment (40%); struggling to break through the two-horse narrative
-- 🔍 **Sentiment-volume paradox:** Tinubu has more total mentions but lower sentiment — high volume driven by controversy, not support
+- 🔍 **Sentiment-volume paradox:** Tinubu has more total mentions but lower sentiment high volume driven by controversy, not support
 - 🔍 **NLP reveals true picture:** Without sentiment analysis, Tinubu's 1,378 avg mentions appears dominant; with NLP, Obi's 56% positive sentiment shows stronger electoral favourability
 - 🔍 **Daily granularity matters:** Weekly polls miss rapid shifts; daily tracking caught Obi's +9.1% day-over-day mention spike on 28 May 2026
 
@@ -392,7 +392,7 @@ crontab -e
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — free to use, adapt, and build upon for research, journalism, and civic technology.
+This project is licensed under the **MIT License** free to use, adapt, and build upon for research, journalism, and civic technology.
 See the [LICENSE](LICENSE) file for full details.
 
 ---
