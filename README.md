@@ -101,9 +101,9 @@ All data is sourced from the **real X (Twitter) API** no synthetic data is used 
 - **Social Media API:** Tweepy 4.16+ — X API v2 integration for search and posting
 - **NLP Engine:** HuggingFace Transformers + PyTorch — RoBERTa sentiment analysis
 - **Data Processing:** Pandas, NumPy — time-series aggregation and statistical analysis
-- **Database:** SQLite3 — lightweight local storage for daily metrics
-- **Visualisation:** Matplotlib — 4-panel dashboard (line charts, bar charts, horizontal summaries)
-- **Automation:** Python `schedule` / cron / GitHub Actions — daily execution at 8:00 AM UTC
+- **Database:** SQLite3 lightweight local storage for daily metrics
+- **Visualisation:** Matplotlib 4-panel dashboard (line charts, bar charts, horizontal summaries)
+- **Automation:** Python `schedule` / cron / GitHub Actions daily execution at 8:00 AM UTC
 - **Cloud Deployment:** Google Cloud Functions + Cloud Scheduler serverless production hosting
 - **Environment Management:** python-dotenv secure credential handling
 
